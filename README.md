@@ -1,7 +1,7 @@
 # strange-notes
 Alterate the amount of notes there are in the musical scale.
 
-Why does the musical scale has exactly 12 notes? (A, B, C, D, E, F, G + all sharps)
+Why does the musical scale has exactly 12 notes? (A, B, C, D, E, F, G + #s)
 Play with custom scales and listen to different ways to divide an octave.
 
 ## Usage
